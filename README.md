@@ -16,5 +16,7 @@ in my gdrive here:
 https://drive.google.com/open?id=1R8LQGTp7z9G3J74EEbhowc9tbaCMEMZx
 But it still not correct font. We must correct it manually. Example: we change the font pcf_001 become MSI_Z001.
 
+The result is like this:
+![page 3](https://user-images.githubusercontent.com/13088121/37909854-4353f2ac-3136-11e8-9986-ed4bd9a8a086.png)
 
 Barokallohu fikum.
