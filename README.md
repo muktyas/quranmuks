@@ -4,8 +4,8 @@ Mushaf Alquran indonesian layout (Indopak) but using the new Utsman Toha's fonts
 The pdf file is true vector font. So it is not brake if we zoom it.
 You can open it with inkscape to beautify them, maybe in frame, or maybe you want to add the translate of it.
 
-The odt file is the source of the pdf. You can open it using libreoffice writer (or ms. word).
-
+The odt file is the source of the pdf. You can open it using libreoffice writer (or ms. word), but first you must install the font files (opentype).
+For linux user, we can install to /usr/share/fonts/opentype
 
 The background of this project is from here:
 https://github.com/quran/quran_android/issues/575
@@ -16,7 +16,7 @@ in my gdrive here:
 https://drive.google.com/open?id=1R8LQGTp7z9G3J74EEbhowc9tbaCMEMZx
 But it still not correct font. We must correct it manually. Example: we change the font pcf_001 become MSI_Z001.
 
-The result is like this:
+The example result is like this:
 ![page 3](https://user-images.githubusercontent.com/13088121/37909854-4353f2ac-3136-11e8-9986-ed4bd9a8a086.png)
 
 Barokallohu fikum.
