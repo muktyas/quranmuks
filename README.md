@@ -19,4 +19,6 @@ But it still not correct font. We must correct it manually. Example: we change t
 The example result is like this:
 ![page 3](https://user-images.githubusercontent.com/13088121/37909854-4353f2ac-3136-11e8-9986-ed4bd9a8a086.png)
 
+Now, quranmuks also on archive.org here:
+https://archive.org/details/quranmuks
 Barokallohu fikum.
