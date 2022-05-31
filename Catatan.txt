@@ -4,3 +4,4 @@ Perbaikan quranmuks:
 #200314: page 80 line 13: bifahisyatin
 #200322: Al A'raf:74 mim ba'di. fix for no tasydid on mim
 #220601: Fix: QS. Al Hajj:60. remove extra 'bihi'
+         Fix: Heading Surah Fussilat
