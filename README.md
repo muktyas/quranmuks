@@ -1,4 +1,11 @@
 # quranmuks
+
+One pdf file all juz here:
+[https://drive.google.com/file/d/1kQ7B8seYb0wfZ25BkUNWTuMcPVTPRBZu/view?usp=sharing](https://drive.google.com/file/d/1kQ7B8seYb0wfZ25BkUNWTuMcPVTPRBZu/view?usp=sharing)
+The flipbook version using Heyzine here (we also can download it from there):
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 400px;" src="https://heyzine.com/flip-book/98bb286a35.html"></iframe>
+
+---
 Mushaf Alquran indonesian layout (Indopak) but using the new Utsman Toha's fonts.
 
 The pdf file is true vector font. So it is not brake if we zoom it.
